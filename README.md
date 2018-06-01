@@ -11,4 +11,4 @@ Such free libraries are also used:
 <li><a href ="https://www.nuget.org/packages/DocxToHtml">DocxToHtml</a>;</li>
 <li><a href ="https://www.nuget.org/packages/DinkToPdf">DinkToPdf</a>;</li>
 <li><a href ="https://www.nuget.org/packages/DotNetCore.NPOI">DotNetCore.NPOI</a>;</li><br>
-Having studied the code, you will see in detail the use of design patterns.
+Having studied the code, you will see in detail the use of <b>Design Patterns</b>.
