@@ -12,7 +12,7 @@ namespace PDFile
         private static PdfConventer _pdfConventer;
 
         private static readonly TelegramBotClient Bot
-            = new TelegramBotClient("540187742:AAEpvQUrmu5Xi9VjKYExuh9UJz0eWaBX3Lk");
+            = new TelegramBotClient("Your API KEY");
 
 
         static void Main(string[] args)
