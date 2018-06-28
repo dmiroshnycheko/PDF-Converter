@@ -2,7 +2,7 @@
 <b>Functions of the bot</b> 
 
 This bot converts docx, xls, xlsx files to pdf.<br>
-Link to my bot <a href ="https://telegram.me/PDFileBot">PDF Converter</a>.
+Link to my bot <a href ="https://telegram.me/PDFileBot">PDF Converter</a>.(Server is currently disabled)
 
 <b>About the project</b>
 
