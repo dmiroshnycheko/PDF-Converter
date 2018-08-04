@@ -10,7 +10,7 @@ namespace PDFile
     class Program
     {
         private static readonly TelegramBotClient Bot
-            = new TelegramBotClient("540187742:AAEpvQUrmu5Xi9VjKYExuh9UJz0eWaBX3Lk");
+            = new TelegramBotClient("API KEY");
 
 
         static void Main(string[] args)
